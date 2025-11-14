@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Image Resizer & Cropper",
+  "description": "A modern, client-side image resizing and cropping tool built with React and the HTML Canvas API, featuring a stunning animated galaxy background. Upload an image, define output dimensions, apply simple crops, and download the result in PNG or JPEG format, all within your browser.",
+  "requestFramePermissions": []
+}
